@@ -15,13 +15,7 @@ public class RestaurantePOO {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("hello, world");
-        System.out.println("hello, world");
-        
-        //kjgjgdytrrdlkjkhjchk
-        System.out.println("dfksdafkdsaf");
-        System.out.println("hkdjfdfgfdskgjdfs");
+       //TODO code starts here
     }
     
     
