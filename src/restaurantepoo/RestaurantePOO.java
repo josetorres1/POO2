@@ -21,6 +21,8 @@ public class RestaurantePOO {
         System.out.println("hello, world");
         System.out.println("hello, world");
         //kjgjgdytrrdlkjkhjchk
+        System.out.println("dfksdafkdsaf");
+        System.out.println("hkdjfdfgfdskgjdfs");
     }
     
     
