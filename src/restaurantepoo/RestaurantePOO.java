@@ -18,8 +18,7 @@ public class RestaurantePOO {
         // TODO code application logic here
         System.out.println("hello, world");
         System.out.println("hello, world");
-        System.out.println("hello, world");
-        System.out.println("hello, world");
+        
         //kjgjgdytrrdlkjkhjchk
         System.out.println("dfksdafkdsaf");
         System.out.println("hkdjfdfgfdskgjdfs");
